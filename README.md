@@ -2,7 +2,7 @@
 <img src="https://avatars.githubusercontent.com/u/111461127?v=4" height="175" width="175" style="margin: 10px">
 <br>
 
-## Curiousity drives me
+## Curiosity drives me
 <br>
 <br>
 
