@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+<img src="https://avatars.githubusercontent.com/u/111461127?v=4" height="175" width="175" style="margin: 10px">
+<br>
 
-<!--
-**cj3dev/cj3dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Curiousity drives me
+<br>
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub followers](https://img.shields.io/github/followers/cj3dev?style=social)](https://github.com/cj3dev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/0xcj3?style=social)](https://twitter.com/0xcj3)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colin-jenson-schrepfer/)
+<br>
+
+</div>
